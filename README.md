@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Junhwan&show_icons=true&theme=transparent)
+
 ## ✔ Hi there, This is Jeong's Github
 안녕하세요 정준환입니다. Data, AI 분야에 관심이 있습니다. \
 간략한 Profile은 다음 링크를 참고하세요. **[Notion Profile](https://working-vole-c9a.notion.site/7920c58a76f24160b374ac10e26a630f)**
@@ -23,3 +25,5 @@
 |     프로그래밍기초와실습     |                 Basis and Practice in Programming                |     A+    |
 |     공학컴퓨터프로그래밍     |                Computer Programming for Engineers                |     A+    |
 |      JAVA프로그래밍실습      |                       JAVA Programming Lab                       |     A+    |
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeong-Junhwan&repo=deep_knowledge_tracing)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeong-Junhwan&repo=book_rating_prediction)](https://github.com/anuraghazra/github-readme-stats)
