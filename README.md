@@ -25,5 +25,3 @@
 |     프로그래밍기초와실습     |                 Basis and Practice in Programming                |     A+    |
 |     공학컴퓨터프로그래밍     |                Computer Programming for Engineers                |     A+    |
 |      JAVA프로그래밍실습      |                       JAVA Programming Lab                       |     A+    |
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeong-Junhwan&repo=deep_knowledge_tracing)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jeong-Junhwan&repo=book_rating_prediction)](https://github.com/anuraghazra/github-readme-stats)
