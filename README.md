@@ -5,7 +5,7 @@
 간략한 Profile은 다음 링크를 참고하세요. **[Notion Profile](https://working-vole-c9a.notion.site/7920c58a76f24160b374ac10e26a630f)**
 
 ## ✔ Experiences
-- `2022.09 ~ Present` Boostcamp AI Tech 4기
+- `2022.09 ~ 2023.02` Boostcamp AI Tech 4기
 - `2017.03 ~ 2023.02` 성균관대학교, 기계공학부
 
 ## ✔ Tech Stack
