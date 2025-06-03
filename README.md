@@ -1,8 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeong-Junhwan&show_icons=true&theme=transparent)
-
 ## ✔ Hi there, This is Jeong's Github
-안녕하세요 정준환입니다. Data, AI 분야에 관심이 있습니다. \
-간략한 Profile은 다음 링크를 참고하세요. **[Notion Profile](https://working-vole-c9a.notion.site/7920c58a76f24160b374ac10e26a630f)**
+안녕하세요 정준환입니다. Data, AI 분야에 관심이 있습니다. 
 
 ## ✔ Experiences
 - `2022.09 ~ 2023.02` Boostcamp AI Tech 4기
